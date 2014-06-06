@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/hjupdown/html-test'
+let g:netrw_dirhist_2='/home/hjupdown'
+let g:netrw_dirhist_3='/home/hjupdown/html-test'
+let g:netrw_dirhist_4='/home/hjupdown'
+let g:netrw_dirhist_5='/home/hjupdown/html-test'
+let g:netrw_dirhist_6='/home/hjupdown/html-test/css'
+let g:netrw_dirhist_7='sftp://ec2-user@54.200.143.62/'
